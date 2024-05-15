@@ -6,5 +6,6 @@ Moreover, the Singular Information (SI) center values for the network layers are
 The principal aim underlying the implementation of this neural network is to delve into the realm of neural network compression. Specifically, a neural network architecture of the 16VGG model type is instantiated, followed by training with specified hyperparameters.
 The compression of neural networks stands as a crucial technique for optimizing model performance, as it facilitates a reduction in the parameter count, thereby augmenting the speed of both training and inference phases. This compression approach concurrently alleviates the memory requirements.
 Consequently, by executing the provided code and training the neural network model, a concerted effort is made towards bolstering the efficiency and applicability of neural networks through the adoption of compression and optimization methodologies.
-Error and Accuracy Chart of the Network on the Dataset
+
+Loss and Accuracy graph of the VGG16 model on the Dataset
 ![image](https://github.com/fmirzadeh99/Implementation-and-compression-of-the-VGG16-model/assets/169579231/8fa85c65-7527-498f-a8fb-7931d16afa8c)
